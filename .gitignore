@@ -1,2 +1,40 @@
-# Google App Engine generated folder
-appengine-generated/
+# Python
+
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# VSCode
+
+.vscode/
+
+# JetBrains
+
+.idea/
+
+# Node
+
+node_modules/
+
+# React
+
+dist/
+
+# Docker
+
+docker-data/
+
+# Logs
+
+*.log
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# macOS
+
+.DS_Store
